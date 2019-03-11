@@ -1,0 +1,8 @@
+﻿  SimpleDB-HashTable.cpp
+c:\users\jinxueyi\documents\visual studio 2015\projects\simpledb-hashtable\simpledb-hashtable\simpledb-hashtable.cpp(26): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\jinxueyi\documents\visual studio 2015\projects\simpledb-hashtable\simpledb-hashtable\simpledb-hashtable.cpp(18): warning C4101: “c”: 未引用的局部变量
+c:\users\jinxueyi\documents\visual studio 2015\projects\simpledb-hashtable\simpledb-hashtable\simpledb-hashtable.cpp(45): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\jinxueyi\documents\visual studio 2015\projects\simpledb-hashtable\simpledb-hashtable\simpledb-hashtable.cpp(72): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\jinxueyi\documents\visual studio 2015\projects\simpledb-hashtable\simpledb-hashtable\simpledb-hashtable.cpp(85): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\jinxueyi\documents\visual studio 2015\projects\simpledb-hashtable\simpledb-hashtable\simpledb-hashtable.cpp(89): warning C4018: “>=”: 有符号/无符号不匹配
+  SimpleDB-HashTable.vcxproj -> C:\Users\jinxueyi\Documents\Visual Studio 2015\Projects\SimpleDB-HashTable\Debug\SimpleDB-HashTable.exe
